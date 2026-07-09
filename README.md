@@ -1,7 +1,8 @@
-# newslens-ai
-A hybrid news recommendation system combining NLP, semantic search, user behavior, editorial ranking, and experimentation with interactive analytics.
 
 # NewsLens AI
+
+A hybrid news recommendation system combining NLP, semantic search, user behavior, editorial ranking, and experimentation with interactive analytics.
+
 
 NewsLens AI is a personalized news recommendation and editorial analytics platform inspired by modern digital news organizations.
 
@@ -29,6 +30,22 @@ Python
 Pandas
 
 Scikit-learn
+
+
+## Dataset
+
+This project uses the Microsoft MIND dataset.
+
+1. Download the MINDsmall dataset from:
+   https://msnews.github.io/
+
+2. Extract it into:
+
+```
+data/raw/MINDsmall/
+```
+
+The dataset is excluded from this repository because of its size and licensing.
 
 Sentence Transformers
 
