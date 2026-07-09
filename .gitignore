@@ -23,3 +23,58 @@ data/processed/
 
 # Environment
 .env
+
+
+# ----------------------------
+# Python
+# ----------------------------
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual Environment
+.venv/
+venv/
+env/
+
+# Jupyter
+.ipynb_checkpoints/
+
+# macOS
+.DS_Store
+
+# VS Code
+.vscode/
+
+# Environment Variables
+.env
+
+# Logs
+*.log
+
+# Build
+build/
+dist/
+*.egg-info/
+
+# Models
+models/
+*.pt
+*.pth
+*.ckpt
+*.bin
+*.onnx
+
+# Data
+data/raw/
+data/processed/
+
+# Streamlit
+.streamlit/secrets.toml
+
+# Pytest
+.pytest_cache/
+
+# Coverage
+.coverage
+htmlcov/
