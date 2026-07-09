@@ -1,0 +1,42 @@
+newslens-ai/
+│
+├── README.md
+├── LICENSE
+├── requirements.txt
+├── .gitignore
+├── pyproject.toml
+├── config/
+│   └── config.yaml
+│
+├── data/
+│   ├── raw/
+│   ├── processed/
+│   └── external/
+│
+├── notebooks/
+│   ├── 01_data_exploration.ipynb
+│   ├── 02_preprocessing.ipynb
+│   ├── 03_content_recommender.ipynb
+│   ├── 04_collaborative_filtering.ipynb
+│   ├── 05_hybrid_model.ipynb
+│   └── 06_experiment_analysis.ipynb
+│
+├── src/
+│   ├── data/
+│   ├── features/
+│   ├── models/
+│   ├── recommenders/
+│   ├── evaluation/
+│   ├── experiments/
+│   ├── dashboard/
+│   └── utils/
+│
+├── app/
+│   ├── Home.py
+│   └── pages/
+│
+├── tests/
+│
+├── docs/
+│
+└── assets/
