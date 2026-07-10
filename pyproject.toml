@@ -1,0 +1,5 @@
+[project]
+name = "newslens-ai"
+version = "0.1.0"
+description = "A hybrid news recommendation system with editorial analytics and experimentation."
+requires-python = ">=3.10"
