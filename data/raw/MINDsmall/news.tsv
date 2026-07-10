@@ -1,0 +1,6 @@
+newslens-ai/
+└── data/
+    └── raw/
+        └── MINDsmall/
+            ├── news.tsv
+            └── behaviors.tsv
