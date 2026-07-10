@@ -1,1 +1,13 @@
-
+pandas
+numpy
+matplotlib
+plotly
+scikit-learn
+sentence-transformers
+faiss-cpu
+streamlit
+jupyter
+notebook
+pytest
+pyyaml
+missingno
