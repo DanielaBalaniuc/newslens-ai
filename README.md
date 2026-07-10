@@ -2,6 +2,25 @@
 
 > A hybrid news recommendation system inspired by modern newsroom recommendation platforms.
 
+## Dataset
+
+This project uses the Microsoft MIND News Dataset.
+
+Due to licensing and repository size limits, the dataset is not included in this repository.
+
+Download the MINDsmall dataset from Microsoft's official site and extract it to:
+
+data/raw/MINDsmall/
+
+Required files:
+
+- news.tsv
+- behaviors.tsv
+- entity_embedding.vec
+- relation_embedding.vec
+
+  
+
 ## Overview
 
 NewsLens AI combines Natural Language Processing (NLP), recommendation algorithms, and editorial analytics to personalize news recommendations while providing insights into reader engagement and content performance.
